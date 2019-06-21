@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Comercial Laravel</title>
+        <title>pimentel</title>
 
         <!-- Favicon -->
         <link href="{{URL::asset('img/favicon.ico')}}" rel="shortcut icon">
@@ -39,7 +39,7 @@
                     <li>
                         <a href="#" style="text-decoration: none">
                             <span class="glyphicon glyphicon-home"></span> 
-                            <span id="underline">Panel</span>
+                            <span id="underline">Painel</span>
                         </a>
                     </li>
                     <li class="dropdown">
@@ -71,10 +71,10 @@
                 <ul class="nav navbar-nav navbar-right" id="link-white">
                     <li class="dropdown">
                         <a href="#" style="text-decoration: none">
-                            <img src="{{URL::asset('img/rafael.png')}}" 
+                            <img src="{{URL::asset('img/.png')}}" 
                                  class="img-circle" width="26" height="26" 
                                  style="margin-top: -3px"> 
-                            <span id="underline">Isaac </span> 
+                            <span id="underline">Online </span> 
                         </a>                      
                     </li>
                     <li>
@@ -100,7 +100,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <ol class="breadcrumb">
-                            <li><a href="">Panel</a></li>                  
+                            <li><a href="">Painel</a></li>                  
                             <li><a href="{{route('product.index')}}">Produtos</a></li>                  
                             <li class="active">Cadastro</li>
                         </ol>              

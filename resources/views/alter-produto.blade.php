@@ -39,7 +39,7 @@
                     <li>
                         <a href="#" style="text-decoration: none">
                             <span class="glyphicon glyphicon-home"></span> 
-                            <span id="underline">Panel</span>
+                            <span id="underline">Paniel</span>
                         </a>
                     </li>
                     <li class="dropdown">
@@ -73,7 +73,7 @@
                             <img src="{{URL::asset('img/isaac.jpg')}}" 
                                  class="img-circle" width="26" height="26" 
                                  style="margin-top: -3px"> 
-                            <span id="underline">Isaac</span> 
+                            <span id="underline">Online</span> 
                         </a>                      
                     </li>
                     <li><a href="#" 
@@ -95,7 +95,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <ol class="breadcrumb">
-                            <li><a href="">Panel</a></li>                  
+                            <li><a href="">Painel</a></li>                  
                             <li><a href="{{route('product.index')}}">Produtos</a></li>                  
                             <li class="active">Alteração</li>
                         </ol>              
